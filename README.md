@@ -1,5 +1,7 @@
 # sign-language-recognition
 Basic sign language recognition using a CNN to classify numbers 0-9
+This program is installed on a raspberry pi and featured in the science building at LeTourneau University. 
+![sign-language-in-action](https://your-copied-image-address)
 
 ## Installation
 Extract the 'CollectedImages' folder and the 'CollectedLabels' folder to the root directory. 
