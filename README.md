@@ -4,6 +4,8 @@ This program is installed on a raspberry pi and featured in the science building
 
 ![sign-language-in-action](https://github.com/3DBull/sign-language-recognition/blob/master/sign-language.jpg)
 
+![image](https://user-images.githubusercontent.com/28244647/153777370-c83f7af2-30ac-4c3a-9421-9e56c98e043c.png)
+
 ## Installation
 Extract the 'CollectedImages' folder and the 'CollectedLabels' folder to the root directory. 
 
